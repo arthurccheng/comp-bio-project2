@@ -1,3 +1,9 @@
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+# IQ-TREE files we can recreate; they change on every run
+results/*.log
+results/*.iqtree
+results/*.ckp.gz
+results/*.bionj
+results/*.mldist
