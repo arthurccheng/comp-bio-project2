@@ -8,7 +8,7 @@ SARS-CoV-2 genomes, for BIOL 5/6800.
 # Comp Bio project template
 
 This repository is a starting point for your own computational biology
-project
+project.
 It sets you up with a ***codespace***: A Linux computer in the cloud that you
 use through your web browser.
 Your codespace comes with:
